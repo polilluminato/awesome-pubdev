@@ -1,5 +1,11 @@
 # Awesome Pub.dev
-A curated list of awesome package on pub.dev
+A curated list of awesome package on pub.dev. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+
+### Contributing
+
+Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
+
+##### *If you see a package that is no longer maintained, please submit a pull request to improve this file. You guys rock!*
 
 ### Contents
 
