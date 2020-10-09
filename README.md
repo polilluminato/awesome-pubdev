@@ -10,9 +10,18 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Contents
 
 - [Awesome Pub.dev](#awesome-pubdev)
+    - [Database](#database)
     - [State Management](#state-management)
 - [Resources](#resources)
     - [Website](#website)
+
+## Database
+
+*Libraries to manage database in a Flutter App.*
+
+* [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
+* [moor](https://pub.dev/packages/moor) - Moor is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
+* [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android
 
 ## State Management
 
