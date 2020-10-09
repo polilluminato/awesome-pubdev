@@ -11,6 +11,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Awesome Pub.dev](#awesome-pubdev)
     - [Database](#database)
+    - [Icons](#icons)
     - [State Management](#state-management)
 - [Resources](#resources)
     - [Website](#website)
@@ -21,7 +22,21 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 * [moor](https://pub.dev/packages/moor) - Moor is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
-* [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android
+* [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android.
+
+## Icons
+
+*Libraries to add custom custom icons to a Flutter App.*
+
+* [cupertino_icons](https://pub.dev/packages/cupertino_icons) - This is an asset repo containing the default set of icon assets used by Flutter's [Cupertino widgets](https://github.com/flutter/flutter/tree/master/packages/flutter/lib/src/cupertino).
+* [eva_icons_flutter](https://pub.dev/packages/eva_icons_flutter) - Flutter package for Eva Icons. [Eva Icons](https://akveo.github.io/eva-icons/#/) is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
+* [fluentui_icons](https://pub.dev/packages/fluentui_icons) - Icon package from Flutter based on [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) from Microsoft.
+* [flutter_icons](https://pub.dev/packages/flutter_icons) - Customizable Icons for Flutter,Inspired by [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
+* [fontisto_flutter](https://pub.dev/packages/fontisto_flutter) - Based on Fontisto 3.0.4. Includes all free icons (over 600 icon). 
+* [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) - The Font Awesome Icon pack available as set of Flutter Icons. Based on Font Awesome 5.15.1. Includes all free icons: Regular, Solid, Brands.
+* [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter) - The Line Awesome Icon pack available as Flutter Icons. Provides 1542 additional icons to use in your apps.
+* [outline_material_icons](https://pub.dev/packages/outline_material_icons) - This package provides the 'outline' theme of icons on the [Material Design website](https://material.io/resources/icons/?style=baseline), which is not available in Flutter or as a .ttf font file.
+* [weather_icons](https://pub.dev/packages/weather_icons) - A Flutter library for using [Weather Icons](https://erikflowers.github.io/weather-icons/).
 
 ## State Management
 
