@@ -15,6 +15,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Icons](#icons)
     - [Sensors](#sensors)
     - [State Management](#state-management)
+    - [Utils](Utils)
 - [Resources](#resources)
     - [Website](#website)
 
@@ -68,6 +69,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) - This project can be considered as a rewrite of [provider](https://pub.dev/packages/provider) to make improvements that would be otherwise impossible.
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+
+## Utils 
 
 # Resources
 
