@@ -56,6 +56,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to pick date and/or time in a Flutter App.*
 
+* [day_night_time_picker](https://pub.dev/packages/day_night_time_picker) - A day night time picker for Flutter with Zero Dependencies.
+* [datetime_picker_formfield](https://pub.dev/packages/datetime_picker_formfield) - A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
+* [date_picker_timeline](https://pub.dev/packages/date_picker_timeline) - Flutter Date Picker Library that provides a calendar as a horizontal timeline.
+* [flutter_duration_picker](https://pub.dev/packages/flutter_duration_picker) - A widget for picking durations, inspired by Material Time Picker.
+* [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) - The Syncfusion Flutter Date Range Picker widget allows users to easily select dates or a range of dates. It has built-in views that allow quick navigation to the desired date.
+
 ## Firebase 
 
 *Libraries to use Firebase in a Flutter App.*
