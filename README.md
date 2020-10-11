@@ -29,16 +29,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to use Firebase in a Flutter App.*
 
+* [firebase_admob](https://pub.dev/packages/firebase_admob) - A plugin for Flutter that supports loading and displaying banner, interstitial (full-screen), and rewarded video ads using the [Firebase AdMob API](https://firebase.google.com/docs/admob/).
+* [firebase_analytics](https://pub.dev/packages/firebase_analytics) - A Flutter plugin to use the [Google Analytics for Firebase API](https://firebase.google.com/docs/analytics/).
 * [firebase_auth](https://pub.dev/packages/firebase_auth) - A Flutter plugin to use the [Firebase Authentication API](https://firebase.google.com/products/auth/).
 * [firebase_core](https://pub.dev/packages/firebase_core) - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
-* [firebase_analytics](https://pub.dev/packages/firebase_analytics) - A Flutter plugin to use the [Google Analytics for Firebase API](https://firebase.google.com/docs/analytics/).
 * [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics) - A Flutter plugin to use the [Firebase Crashlytics API](https://firebase.google.com/docs/crashlytics/).
-* [firebase_storage](https://pub.dev/packages/firebase_storage) - A Flutter plugin to use the [Firebase Cloud Storage API](https://firebase.google.com/products/storage/).
-* [firebase_admob](https://pub.dev/packages/firebase_admob) - A plugin for Flutter that supports loading and displaying banner, interstitial (full-screen), and rewarded video ads using the [Firebase AdMob API](https://firebase.google.com/docs/admob/).
-* [firebase_messaging](https://pub.dev/packages/firebase_messaging) - A Flutter plugin to use the [Firebase Cloud Messaging (FCM) API](https://firebase.google.com/docs/cloud-messaging/).
 * [firebase_database](https://pub.dev/packages/firebase_database) - A Flutter plugin to use the [Firebase Realtime Database API](https://firebase.google.com/products/realtime-database).
-* [firebase_remote_config](https://pub.dev/packages/firebase_remote_config) - A Flutter plugin to use the [Firebase Remote Config API](https://firebase.google.com/products/remote-config/).
+* [firebase_messaging](https://pub.dev/packages/firebase_messaging) - A Flutter plugin to use the [Firebase Cloud Messaging (FCM) API](https://firebase.google.com/docs/cloud-messaging/).
 * [firebase_performance](https://pub.dev/packages/firebase_performance) - A Flutter plugin to use the [Google Performance Monitoring for Firebase API](https://firebase.google.com/docs/perf-mon/).
+* [firebase_remote_config](https://pub.dev/packages/firebase_remote_config) - A Flutter plugin to use the [Firebase Remote Config API](https://firebase.google.com/products/remote-config/).
+* [firebase_storage](https://pub.dev/packages/firebase_storage) - A Flutter plugin to use the [Firebase Cloud Storage API](https://firebase.google.com/products/storage/).
 
 ## Icons
 
