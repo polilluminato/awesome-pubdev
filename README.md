@@ -26,9 +26,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) - Animated Bottom Navigation Bar Widget implementation inspired by [dribble shot](https://dribbble.com/shots/7134849-Simple-Tab-Bar-Animation).
 * [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar) - A beautiful and animated bottom navigation. The navigation bar use your current theme, but you are free to customize it.
+* [cuberto_bottom_bar](https://pub.dev/packages/cuberto_bottom_bar) - An animated bottom navigation bar supporting drawer icon at start or end or can be used with the drawer icon and is provided with 2 different styles.
+* [expanding_bottom_bar](https://pub.dev/packages/expanding_bottom_bar) - A bottom navigation bar with expanding titles and icons when clicked.
+* [fancy_bottom_navigation](https://pub.dev/packages/fancy_bottom_navigation) - An animated Bottom Navigation Bar for Flutter apps, icon animates into place, colors are customisable.
 * [ff_navigation_bar](https://pub.dev/packages/ff_navigation_bar) - A highly configurable navigation bar with emphasis for the selected item.
 * [floating_bottom_navigation_bar](https://pub.dev/packages/floating_bottom_navigation_bar) - Fully customizable floating bottom navigation package for flutter.
 * [flutter_snake_navigationbar](https://pub.dev/packages/flutter_snake_navigationbar) - Flutter bottom navigation bar widget with snake animation on change item.
+* [persistent_bottom_nav_bar](https://pub.dev/packages/persistent_bottom_nav_bar) - A do all, highly customizable persistent/static bottom navigation bar for flutter. Includes up-to 20 styles.
 * [salomon_bottom_bar](https://pub.dev/packages/salomon_bottom_bar) - Yet another bottom navigation bar, but with a few key promises.
 * [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar) - Hide or show bottom navigation bar while scrolling.
 * [spincircle_bottom_bar](https://pub.dev/packages/spincircle_bottom_bar) - An easy to implement Spin Circle Bottom Navigation Bar for Flutter Applications.
