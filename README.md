@@ -56,10 +56,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to pick date and/or time in a Flutter App.*
 
+* [calendar_timeline](https://pub.dev/packages/calendar_timeline) - A horizontal date picker that takes up little screen space, so we can always have it visible, and that facilitates use with one hand.
 * [day_night_time_picker](https://pub.dev/packages/day_night_time_picker) - A day night time picker for Flutter with Zero Dependencies.
 * [datetime_picker_formfield](https://pub.dev/packages/datetime_picker_formfield) - A TextFormField that emits DateTimes and helps show Material, Cupertino, and other style picker dialogs.
 * [date_picker_timeline](https://pub.dev/packages/date_picker_timeline) - Flutter Date Picker Library that provides a calendar as a horizontal timeline.
+* [flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker) - A date time picker for flutter, you can choose date / time / date&time in English Dutch and Chinese, and you can also custom your own picker content. 
 * [flutter_duration_picker](https://pub.dev/packages/flutter_duration_picker) - A widget for picking durations, inspired by Material Time Picker.
+* [f_datetimerangepicker](https://pub.dev/packages/f_datetimerangepicker) - Date and Time Range Picker for Flutter using Cupertino. Support pick date range, time range, date and time range.
+* [persian_datetime_picker](https://pub.dev/packages/persian_datetime_picker) - A persian (farsi,shamsi) datetime picker for flutter, inspired by material datetime picker.
+* [platform_date_picker](https://pub.dev/packages/platform_date_picker) - A platform aware date and time picker. Unlike the showDatePicker and showTimePicker functions, this package automatically chooose the appropiate widget depending on the platform.
 * [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) - The Syncfusion Flutter Date Range Picker widget allows users to easily select dates or a range of dates. It has built-in views that allow quick navigation to the desired date.
 
 ## Firebase 
