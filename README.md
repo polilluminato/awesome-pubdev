@@ -78,6 +78,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Utils 
 
+*Utility libraries for a Flutter App.*
+
+* [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
+* [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
+* [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
+* [shared_preferences](https://pub.dev/packages/shared_preferences) - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
+* [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL in the mobile platform. Supports iOS, Android, web, Windows, macOS, and Linux.
+
 # Resources
 
 *Where to discover new Pub.dev libraries.*
