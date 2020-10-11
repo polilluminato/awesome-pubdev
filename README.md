@@ -24,7 +24,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries custumize bottom navigation in a Flutter App.*
 
-
+* [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) - Animated Bottom Navigation Bar Widget implementation inspired by [dribble shot](https://dribbble.com/shots/7134849-Simple-Tab-Bar-Animation).
+* [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar) - A beautiful and animated bottom navigation. The navigation bar use your current theme, but you are free to customize it.
+* [ff_navigation_bar](https://pub.dev/packages/ff_navigation_bar) - A highly configurable navigation bar with emphasis for the selected item.
+* [floating_bottom_navigation_bar](https://pub.dev/packages/floating_bottom_navigation_bar) - Fully customizable floating bottom navigation package for flutter.
+* [flutter_snake_navigationbar](https://pub.dev/packages/flutter_snake_navigationbar) - Flutter bottom navigation bar widget with snake animation on change item.
+* [salomon_bottom_bar](https://pub.dev/packages/salomon_bottom_bar) - Yet another bottom navigation bar, but with a few key promises.
+* [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar) - Hide or show bottom navigation bar while scrolling.
+* [spincircle_bottom_bar](https://pub.dev/packages/spincircle_bottom_bar) - An easy to implement Spin Circle Bottom Navigation Bar for Flutter Applications.
+* [titled_navigation_bar](https://pub.dev/packages/titled_navigation_bar) - A beautiful, clean and simple bottom navigation bar with smooth animation on click. This package is high customizable, read more bellow for more details.
 
 ## Database
 
