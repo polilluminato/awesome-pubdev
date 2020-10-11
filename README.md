@@ -12,6 +12,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Awesome Pub.dev](#awesome-pubdev)
     - [Bottom Navigation](#bottom-navigation)
     - [Database](#database)
+    - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
     - [Icons](#icons)
     - [Sensors](#sensors)
@@ -50,6 +51,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 * [moor](https://pub.dev/packages/moor) - Moor is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
 * [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android.
+
+## Date Time Picker
+
+*Libraries to pick date and/or time in a Flutter App.*
 
 ## Firebase 
 
