@@ -9,7 +9,7 @@ awesome-pubdev is a specially curated list for high-quality, actively maintained
 - List items should be sorted *alphabetically*;
 - Each item should be limited to one link;
 - The link should be the name of the package;
-- Descriptions should be clear, concise, and non-promotional;
+- Descriptions should be clear, concise, and non-promotional. Often a good description is the one found in the metadata field on the pub.dev website;
 - Descriptions should follow the link, on the same line and end with a punctuation mark;
 - At least 3 items are needed to create a new category;
 - The package or project had to be maintained under **open source license**, [see list of allowed licenses](https://opensource.org/licenses/alphabetical).
