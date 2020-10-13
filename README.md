@@ -18,7 +18,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Icons](#icons)
     - [Sensors](#sensors)
     - [State Management](#state-management)
-    - [Utils](Utils)
+    - [Utils](#utils)
 - [Resources](#resources)
     - [Website](#website)
 
