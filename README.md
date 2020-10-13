@@ -11,6 +11,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 - [Awesome Pub.dev](#awesome-pubdev)
     - [Bottom Navigation](#bottom-navigation)
+    - [Camera](#camera)
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
@@ -43,6 +44,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [scroll_bottom_navigation_bar](https://pub.dev/packages/scroll_bottom_navigation_bar) - Hide or show bottom navigation bar while scrolling.
 * [spincircle_bottom_bar](https://pub.dev/packages/spincircle_bottom_bar) - An easy to implement Spin Circle Bottom Navigation Bar for Flutter Applications.
 * [titled_navigation_bar](https://pub.dev/packages/titled_navigation_bar) - A beautiful, clean and simple bottom navigation bar with smooth animation on click. This package is high customizable, read more bellow for more details.
+
+## Camera
+
+*Libraries to use camera in a Flutter App.*
+
+
 
 ## Database
 
