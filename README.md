@@ -20,6 +20,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Sensors](#sensors)
     - [State Management](#state-management)
     - [Utils](#utils)
+    - [Video Player](#video-player)
 - [Resources](#resources)
     - [Website](#website)
 
@@ -144,6 +145,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
 * [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL in the mobile platform. Supports iOS, Android, web, Windows, macOS, and Linux.
+
+## Video Player 
+
+*Libraries to play video in a Flutter App.*
 
 # Resources
 
