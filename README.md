@@ -49,7 +49,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to use camera in a Flutter App.*
 
-
+* [adv_camera](https://pub.dev/packages/adv_camera) - An advanced camera with features.
+* [camera](https://pub.dev/packages/camera) - A Flutter plugin for getting information about and controlling the camera on Android and iOS. Supports previewing the camera feed, capturing images, capturing video, and streaming image buffers to dart.
+* [camerawesome](https://pub.dev/packages/camerawesome) - Flutter plugin to add Camera support inside your project with lots of features: live camera flip, instant focus, device flash support, zoom, fullscreen or sizedBox preview.
+* [camera_with_rtmp](https://pub.dev/packages/camera_with_rtmp) - Controlling the camera on Android and iOS plus rtmp live streaming support. Based off the Camera plugin.
+* [flutter_better_camera](https://pub.dev/packages/flutter_better_camera) - Flutter plugin for controlling the camera on Android and IOS, supports camera feed, capturing images, capturing videos, streaming image buffers and has support for all the essential features the camera APIs allow (flash, AE and more).
+* [image_picker_gallery_camera](https://pub.dev/packages/image_picker_gallery_camera) - Flutter Package to Pick Image From Gallery or Camera. This Package supports picking image from Camera,Gallery and Both Camera abd Gallery.
+* [magiceye](https://pub.dev/packages/magiceye) - An abstraction on top of flutter camera, that allows you to have a default camera screen or build your own with the layer builders.
 
 ## Database
 
