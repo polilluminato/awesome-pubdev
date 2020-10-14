@@ -102,6 +102,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Flutter Community Plus Plugins
 
 *PlusPlugins is a set of Flutter plugins that is developed based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.*
+
+* [android_alarm_manager_plus](https://pub.dev/packages/android_alarm_manager_plus) - Flutter plugin for accessing the Android AlarmManager service, and running Dart code in the background when alarms fire.
+* [android_intent_plus](https://pub.dev/packages/android_intent_plus) - Flutter plugin for launching Android Intents. Not supported on iOS.
+* [battery_plus](https://pub.dev/packages/battery_plus) - A Flutter plugin to access various information about the battery of the device the app is running on.
+* [connectivity_plus](https://pub.dev/packages/connectivity_plus) - Flutter plugin for discovering the state of the network (WiFi & mobile/cellular) connectivity on Android and iOS.
+* [device_info_plus](https://pub.dev/packages/device_info_plus) - Flutter plugin providing detailed information about the device (make, model, etc.), and Android or iOS version the app is running on.
+* [package_info_plus](https://pub.dev/packages/package_info_plus) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android.
+* [sensors_plus](https://pub.dev/packages/sensors_plus) - Flutter plugin for accessing accelerometer and gyroscope sensors.
+* [share_plus](https://pub.dev/packages/share_plus) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS.
+
 ## Icons
 
 *Libraries to add custom custom icons to a Flutter App.*
