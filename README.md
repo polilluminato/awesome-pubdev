@@ -15,6 +15,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
+    - [Flutter Community Plus Plugins](#flutter-community-plus-plugins)
     - [Icons](#icons)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
@@ -98,6 +99,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [firebase_remote_config](https://pub.dev/packages/firebase_remote_config) - A Flutter plugin to use the [Firebase Remote Config API](https://firebase.google.com/products/remote-config/).
 * [firebase_storage](https://pub.dev/packages/firebase_storage) - A Flutter plugin to use the [Firebase Cloud Storage API](https://firebase.google.com/products/storage/).
 
+## Flutter Community Plus Plugins
+
+*PlusPlugins is a set of Flutter plugins that is developed based on existing Flutter plugins with extra functionalities, platforms support, and better maintenance.*
 ## Icons
 
 *Libraries to add custom custom icons to a Flutter App.*
