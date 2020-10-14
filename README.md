@@ -16,6 +16,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
     - [Icons](#icons)
+    - [PDF](#pdf)
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
     - [State Management](#state-management)
@@ -110,6 +111,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter) - The Line Awesome Icon pack available as Flutter Icons. Provides 1542 additional icons to use in your apps.
 * [outline_material_icons](https://pub.dev/packages/outline_material_icons) - This package provides the 'outline' theme of icons on the [Material Design website](https://material.io/resources/icons/?style=baseline), which is not available in Flutter or as a .ttf font file.
 * [weather_icons](https://pub.dev/packages/weather_icons) - A Flutter library for using [Weather Icons](https://erikflowers.github.io/weather-icons/).
+
+## PDF
+
+*Libraries to display and modify PDF in a Flutter App.*
 
 ## QRCode
 
