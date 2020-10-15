@@ -130,6 +130,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to display and modify PDF in a Flutter App.*
 
+* [advance_pdf_viewer](https://pub.dev/packages/advance_pdf_viewer) - A flutter plugin for handling PDF files. Works on both Android & iOS.
+* [flutter_cached_pdfview](https://pub.dev/packages/flutter_cached_pdfview) - A package to show Native PDF View for iOS and Android, support Open from a different resource like Path, Asset or Url and Cache it.
+* [flutter_full_pdf_viewer](https://pub.dev/packages/flutter_full_pdf_viewer) - A flutter plugin to display PDF. This works for Android and for iOS.
+* [native_pdf_renderer](https://pub.dev/packages/native_pdf_renderer) - Flutter plugin to render PDF pages as images on Web, MacOS, Android and iOS.
+* [native_pdf_view](https://pub.dev/packages/native_pdf_view) - Flutter plugin to render PDF files on Web, MacOS, Android and iOS.
+* [pdf](https://pub.dev/packages/pdf) - A pdf producer for Dart. It can create pdf files for both web or flutter.
+* [pdf_flutter](https://pub.dev/packages/pdf_flutter) - Displaying PDF from Network, File and assets easily like we display Image in Flutter Widget.
+
 ## QRCode
 
 *Libraries to display and generate QRCode in a Flutter App.*
