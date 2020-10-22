@@ -185,6 +185,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to play video in a Flutter App.*
 
+* [better_player](https://pub.dev/packages/better_player) - Advanced video player based on video_player and Chewie. It's solves many typical use cases and it's easy to run.
+* [cached_video_player](https://pub.dev/packages/cached_video_player) - A new flutter plugin that is virtually a clone of official video_player plugin except that it supports caching( Android and iOS)
+* [flutter_vlc_player](https://pub.dev/packages/flutter_vlc_player) - A VLC-powered alternative to Flutter's video_player. Supports multiple players on one screen.
+* [video_player](https://pub.dev/packages/video_player) - Flutter plugin for displaying inline video with other Flutter widgets on Android, iOS, and web.
+* [video_thumbnail](https://pub.dev/packages/video_thumbnail) - A flutter plugin for creating a thumbnail from a local video file or from a video URL.
+* [video_trimmer](https://pub.dev/packages/video_trimmer) - A Flutter package for trimming videos. This supports retrieving, trimming, and storage of trimmed video files to the file system.
+
 # Resources
 
 *Where to discover new Pub.dev libraries.*
