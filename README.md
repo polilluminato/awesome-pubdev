@@ -142,6 +142,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to display and generate QRCode in a Flutter App.*
 
+* [barcode_scanner](https://pub.dev/packages/barcode_scanner) - Flutter plugin of the Scanbot Barcode Scanner SDK for Android and iOS. Provides functionality for scanning 1D and 2D barcodes, like EAN, UPC, QR code, Data Matrix, PDF 417, etc.
+* [flutter_qr_reader](https://pub.dev/packages/flutter_qr_reader) - QR code (scan QRCode and picture) recognition （AndroidView/UiKitView）
+* [pretty_qr_code](https://pub.dev/packages/pretty_qr_code) - Pretty QR code for Flutter. You can round the edges with parameter or use the standard view.
+* [qr](https://pub.dev/packages/qr) - A QR code generation library for Dart and Flutter. Supports QR code version 1 through 40, error correction and redundancy.
+* [qr_code_scanner](https://pub.dev/packages/qr_code_scanner) - QR code scanner that can be embedded inside flutter. It uses zxing in Android and MTBBarcode scanner in iOS.
+* [qr_flutter](https://pub.dev/packages/qr_flutter) - QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
+* [r_scan](https://pub.dev/packages/r_scan) - A flutter plugin about qr code scan,it can scan from file、url、memory and camera qr code.
+
 ## Sensors
 
 *Libraries to use device sensors in a Flutter App.*
