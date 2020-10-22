@@ -187,6 +187,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [better_player](https://pub.dev/packages/better_player) - Advanced video player based on video_player and Chewie. It's solves many typical use cases and it's easy to run.
 * [cached_video_player](https://pub.dev/packages/cached_video_player) - A new flutter plugin that is virtually a clone of official video_player plugin except that it supports caching( Android and iOS)
+* [chewie](https://pub.dev/packages/chewie) - A video player for Flutter with Cupertino and Material play controls.
+* [flick_video_player](https://pub.dev/packages/flick_video_player) - Flick Video Player is a video player for flutter. The video_player plugin gives low level access for the video playback.
+* [flutter_playout](https://pub.dev/packages/flutter_playout) - This plugin provides audio/video playback from a URL with background audio support, lock screen controls & player events for both iOS and Android.
+* [flutter_video_compress](https://pub.dev/packages/flutter_video_compress) - Generate a new file by compressed video, and provide metadata. Get video thumbnail from a video path, supports JPEG/GIF. To reduce app size not using FFmpeg in IOS.
 * [flutter_vlc_player](https://pub.dev/packages/flutter_vlc_player) - A VLC-powered alternative to Flutter's video_player. Supports multiple players on one screen.
 * [video_player](https://pub.dev/packages/video_player) - Flutter plugin for displaying inline video with other Flutter widgets on Android, iOS, and web.
 * [video_thumbnail](https://pub.dev/packages/video_thumbnail) - A flutter plugin for creating a thumbnail from a local video file or from a video URL.
