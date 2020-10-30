@@ -12,6 +12,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 - [Awesome Pub.dev](#awesome-pubdev)
     - [Bottom Navigation](#bottom-navigation)
     - [Camera](#camera)
+    - [Chat](#chat)
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
@@ -61,6 +62,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_better_camera](https://pub.dev/packages/flutter_better_camera) - Flutter plugin for controlling the camera on Android and IOS, supports camera feed, capturing images, capturing videos, streaming image buffers and has support for all the essential features the camera APIs allow (flash, AE and more).
 * [image_picker_gallery_camera](https://pub.dev/packages/image_picker_gallery_camera) - Flutter Package to Pick Image From Gallery or Camera. This Package supports picking image from Camera,Gallery and Both Camera abd Gallery.
 * [magiceye](https://pub.dev/packages/magiceye) - An abstraction on top of flutter camera, that allows you to have a default camera screen or build your own with the layer builders.
+
+## Chat
+
+*Libraries to manage chat ui in a Flutter App.*
+
+* [bubble](https://pub.dev/packages/bubble) - A Flutter widget for chat like a speech bubble in Whatsapp and others.
+* [chat_bubbles](https://pub.dev/packages/chat_bubbles) - Chat bubble widgets, similar to Whatsapp and more shapes. Easy to use and implement chat bubbles.
+* [chat_list](https://pub.dev/packages/chat_list) - A flutter package to incorporate a chat view in a simple way.
+* [dash_chat](https://pub.dev/packages/dash_chat) - The most complete Chat UI for flutter inspired by react-native-gifted-chat.
+* [flutter_chat_bubble](https://pub.dev/packages/flutter_chat_bubble) - Flutter widget for creating different types of chat bubble. You can use different properties of this Widget and create beautiful Chat Bubbles.
 
 ## Database
 
