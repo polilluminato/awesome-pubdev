@@ -65,8 +65,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to manage database in a Flutter App.*
 
+* [database](https://pub.dev/packages/database) - A database access API that's vendor-agnostic. Adapters exist for browser APIs, SQLite, Google Cloud Firestore, PostgreSQL, ElasticSearch, Algolia, and others.
 * [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 * [moor](https://pub.dev/packages/moor) - Moor is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
+* [postgres](https://github.com/stablekernel/postgresql-dart) -PostgreSQL database driver. Supports statement reuse and binary protocol.
+* [sembast](https://pub.dev/packages/sembast) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
 * [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android.
 
 ## Date Time Picker
