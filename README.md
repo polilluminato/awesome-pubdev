@@ -21,6 +21,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
     - [State Management](#state-management)
+    - [Timeline](#timeline)
     - [Utils](#utils)
     - [Video Player](#video-player)
 - [Resources](#resources)
@@ -172,6 +173,17 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) - This project can be considered as a rewrite of [provider](https://pub.dev/packages/provider) to make improvements that would be otherwise impossible.
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+
+## Timeline
+
+*Libraries to show a timeline in a Flutter App.*
+
+* [bubble_timeline](https://pub.dev/packages/bubble_timeline) - A Flutter Widget to make interactive timeline widget. This widget provides easy customisation of individual event bubbles.
+* [flutter_timeline](https://pub.dev/packages/flutter_timeline) - A fully customizable & general timeline widget, based on real-world application references.
+* [timeline_list](https://pub.dev/packages/timeline_list) - Displays customizable timeline of widgets.
+* [timeline_node](https://pub.dev/packages/timeline_node) - A timeline node widget to create timeline layout.
+* [timeline_tile](https://pub.dev/packages/timeline_tile) - A package to help you build highly customisable timelines with Flutter.
+
 
 ## Utils 
 
