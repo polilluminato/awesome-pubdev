@@ -121,6 +121,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [firebase_auth](https://pub.dev/packages/firebase_auth) - A Flutter plugin to use the [Firebase Authentication API](https://firebase.google.com/products/auth/).
 * [firebase_core](https://pub.dev/packages/firebase_core) - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
 * [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics) - A Flutter plugin to use the [Firebase Crashlytics API](https://firebase.google.com/docs/crashlytics/).
+* [firebase_helpers](https://pub.dev/packages/firestore_helpers) - Firestore helper function to create dynamic and location based queries
 * [firebase_database](https://pub.dev/packages/firebase_database) - A Flutter plugin to use the [Firebase Realtime Database API](https://firebase.google.com/products/realtime-database).
 * [firebase_messaging](https://pub.dev/packages/firebase_messaging) - A Flutter plugin to use the [Firebase Cloud Messaging (FCM) API](https://firebase.google.com/docs/cloud-messaging/).
 * [firebase_performance](https://pub.dev/packages/firebase_performance) - A Flutter plugin to use the [Google Performance Monitoring for Firebase API](https://firebase.google.com/docs/perf-mon/).
@@ -204,7 +205,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [bloc](https://pub.dev/packages/bloc) - The goal of this package is to make it easy to implement the BLoC Design Pattern (Business Logic Component) in a Flutter App.
 * [flutter_bloc](https://pub.dev/packages/flutter_bloc) - Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with [bloc](https://pub.dev/packages/bloc).
+* [flutter_command](https://pub.dev/packages/flutter_command) - flutter_command is a way to manage your state based on `ValueListenable` and the `Command` design pattern.
 * [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) - This project can be considered as a rewrite of [provider](https://pub.dev/packages/provider) to make improvements that would be otherwise impossible.
+* [get_it](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
+* [get_it_mixin](https://pub.dev/packages/get_it_mixin) - mixin on Stateless- and StatefulWidgts that makes binding the Widget to Objects stored in GetIt easier. Makes get_it to a full state management solutio
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 
