@@ -77,6 +77,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ## Crypto
 
 *Libraries to use cryptographic functions in a Flutter App.*
+
+* [crypto](https://pub.dev/packages/crypto) - Implementations of SHA, MD5, and HMAC cryptographic functions.
+* [cryptography](https://pub.dev/packages/cryptography) - Cryptographic algorithms for encryption, digital signatures, key agreement, authentication, and hashing. AES, Chacha20, ED25519, X25519, and more. Web Crypto support.
+* [encrypt](https://pub.dev/packages/encrypt) - A set of high-level APIs over PointyCastle for two-way cryptography.
+* [nanoid](https://pub.dev/packages/nanoid) - A tiny, secure, URL-friendly, unique string ID generator. Dart implementation of ai/nanoid.
+* [rsa_encrypt](https://pub.dev/packages/rsa_encrypt) - Enable you to quickly implement rsa encryption in your flutter app, it covers everything from Generating key pairs, encrypt and decrypting strings.
+* [uuid](https://pub.dev/packages/uuid) - RFC4122 (v1, v4, v5) UUID Generator and Parser for all Dart platforms (Web, VM, Flutter).
+
 ## Database
 
 *Libraries to manage database in a Flutter App.*
