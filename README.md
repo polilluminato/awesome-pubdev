@@ -1,5 +1,5 @@
 # Awesome Pub.dev
-A curated list of awesome package on pub.dev. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
+A curated list of awesome packages on pub.dev. Inspired by [awesome-go](https://github.com/avelino/awesome-go).
 
 ### Contributing
 
