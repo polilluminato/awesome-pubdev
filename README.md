@@ -144,6 +144,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to work with http on a Flutter App.*
 
+* [alice](https://pub.dev/packages/alice) - Alice is an HTTP Inspector tool which helps debugging http requests. It catches and stores http requests and responses, which can be viewed via simple UI.
+* [chopper](https://pub.dev/packages/chopper) - Chopper is an http client generator using source_gen and inspired from retrofit.
+* [dio](https://pub.dev/packages/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
+* [http](https://pub.dev/packages/http) - A composable, multi-platform, Future-based API for HTTP requests.
+* [retrofit](https://pub.dev/packages/retrofit) - Retrofit.dart is an dio client generator using source_gen and inspired by Chopper and Retrofit.
+
 ## Icons
 
 *Libraries to add custom custom icons to a Flutter App.*
