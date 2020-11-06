@@ -121,8 +121,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [firebase_auth](https://pub.dev/packages/firebase_auth) - A Flutter plugin to use the [Firebase Authentication API](https://firebase.google.com/products/auth/).
 * [firebase_core](https://pub.dev/packages/firebase_core) - A Flutter plugin to use the Firebase Core API, which enables connecting to multiple Firebase apps.
 * [firebase_crashlytics](https://pub.dev/packages/firebase_crashlytics) - A Flutter plugin to use the [Firebase Crashlytics API](https://firebase.google.com/docs/crashlytics/).
-* [firebase_helpers](https://pub.dev/packages/firestore_helpers) - Firestore helper function to create dynamic and location based queries
 * [firebase_database](https://pub.dev/packages/firebase_database) - A Flutter plugin to use the [Firebase Realtime Database API](https://firebase.google.com/products/realtime-database).
+* [firebase_helpers](https://pub.dev/packages/firestore_helpers) - Firestore helper function to create dynamic and location based queries
 * [firebase_messaging](https://pub.dev/packages/firebase_messaging) - A Flutter plugin to use the [Firebase Cloud Messaging (FCM) API](https://firebase.google.com/docs/cloud-messaging/).
 * [firebase_performance](https://pub.dev/packages/firebase_performance) - A Flutter plugin to use the [Google Performance Monitoring for Firebase API](https://firebase.google.com/docs/perf-mon/).
 * [firebase_remote_config](https://pub.dev/packages/firebase_remote_config) - A Flutter plugin to use the [Firebase Remote Config API](https://firebase.google.com/products/remote-config/).
