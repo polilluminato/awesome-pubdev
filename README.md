@@ -215,6 +215,8 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
 * [json_serializable](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 * [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
+* [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
+* [quick_actions](https://pub.dev/packages/quick_actions) - Flutter plugin for creating shortcuts on home screen, also known as Quick Actions on iOS and App Shortcuts on Android.
 * [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
 * [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL in the mobile platform. Supports iOS, Android, web, Windows, macOS, and Linux.
