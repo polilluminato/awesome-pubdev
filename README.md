@@ -18,6 +18,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
     - [Flutter Community Plus Plugins](#flutter-community-plus-plugins)
+    - [HTTP](#http)
     - [Icons](#icons)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
@@ -138,6 +139,10 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [package_info_plus](https://pub.dev/packages/package_info_plus) - Flutter plugin for querying information about the application package, such as CFBundleVersion on iOS or versionCode on Android.
 * [sensors_plus](https://pub.dev/packages/sensors_plus) - Flutter plugin for accessing accelerometer and gyroscope sensors.
 * [share_plus](https://pub.dev/packages/share_plus) - Flutter plugin for sharing content via the platform share UI, using the ACTION_SEND intent on Android and UIActivityViewController on iOS.
+
+## HTTP
+
+*Libraries to work with http on a Flutter App.*
 
 ## Icons
 
