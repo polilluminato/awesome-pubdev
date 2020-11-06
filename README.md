@@ -13,6 +13,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Bottom Navigation](#bottom-navigation)
     - [Camera](#camera)
     - [Chat](#chat)
+    - [Crypto](#crypto)
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
     - [Firebase](#firebase)
@@ -73,6 +74,9 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dash_chat](https://pub.dev/packages/dash_chat) - The most complete Chat UI for flutter inspired by react-native-gifted-chat.
 * [flutter_chat_bubble](https://pub.dev/packages/flutter_chat_bubble) - Flutter widget for creating different types of chat bubble. You can use different properties of this Widget and create beautiful Chat Bubbles.
 
+## Crypto
+
+*Libraries to use cryptographic functions in a Flutter App.*
 ## Database
 
 *Libraries to manage database in a Flutter App.*
