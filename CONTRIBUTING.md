@@ -6,7 +6,8 @@
 
 awesome-pubdev is a specially curated list for high-quality, actively maintained Pub.dev packages and resources.
 
-- List items should be sorted *alphabetically*;
+- List items must be sorted *alphabetically*;
+- Categories must be sorted *alphabetically*;
 - Each item should be limited to one link;
 - The link should be the name of the package;
 - Descriptions should be clear, concise, and non-promotional. Often a good description is the one found in the metadata field on the pub.dev website;
@@ -15,6 +16,15 @@ awesome-pubdev is a specially curated list for high-quality, actively maintained
 - The package or project had to be maintained under **open source license**, [see list of allowed licenses](https://opensource.org/licenses/alphabetical).
 
 Please contribute links to packages/projects you have used or are familiar with. This will help ensure high-quality entries.
+
+## Pull Request
+
+To allow me to more easily check your pull requests, here are some indications:
+ 
+- Open one pull request for one package addition;
+- If you want to add more packages at a time, put packages belonging to the same category within the same pull request;
+- Do not add multiple packages belonging to different categories to the same pull request;
+- If you want to create a pull request for a new category, create both the menu item and the corresponding category. I remember that to create a category there must be at least 3 packages;
 
 ## Quality standards
 
