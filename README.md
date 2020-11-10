@@ -16,6 +16,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Crypto](#crypto)
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
+    - [Development](#development)
     - [Firebase](#firebase)
     - [Flutter Community Plus Plugins](#flutter-community-plus-plugins)
     - [HTTP](#http)
@@ -111,6 +112,17 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [persian_datetime_picker](https://pub.dev/packages/persian_datetime_picker) - A persian (farsi,shamsi) datetime picker for flutter, inspired by material datetime picker.
 * [platform_date_picker](https://pub.dev/packages/platform_date_picker) - A platform aware date and time picker. Unlike the showDatePicker and showTimePicker functions, this package automatically chooose the appropiate widget depending on the platform.
 * [syncfusion_flutter_datepicker](https://pub.dev/packages/syncfusion_flutter_datepicker) - The Syncfusion Flutter Date Range Picker widget allows users to easily select dates or a range of dates. It has built-in views that allow quick navigation to the desired date.
+
+## Development
+
+*Libraries to help you develop a Flutter App.*
+
+* [catcher](https://pub.dev/packages/catcher) - Plugin for error catching. Allows handling errors when they're not catched by developer. Plugin provides multiple handlers for errors.
+* [device_preview](https://pub.dev/packages/device_preview) - Approximate how your app looks and performs on another device.
+* [fvm](https://pub.dev/packages/fvm) - A simple cli to manage Flutter SDK versions per project. Support channels, releases, and local cache for fast switching between versions.
+* [let_log](https://pub.dev/packages/let_log) - LetLog is a logger that supports both IDE and in-app display, and supports log and network.
+* [logger](https://pub.dev/packages/logger) - Small, easy to use and extensible logger which prints beautiful logs.
+* [simple_logger](https://pub.dev/packages/simple_logger) - Provides super simple APIs for logging. The log also includes caller info by setting includeCallerInfo to true. On Android Studio, jump to called location by clicking the log.
 
 ## Firebase 
 
@@ -229,7 +241,6 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 *Utility libraries for a Flutter App.*
 
 * [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
-* [device_preview](https://pub.dev/packages/device_preview) - Approximate how your app looks and performs on another device.
 * [json_serializable](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 * [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
