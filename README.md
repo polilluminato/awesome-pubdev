@@ -195,6 +195,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 * [battery](https://pub.dev/packages/battery) - Flutter plugin for accessing information about the battery state (full, charging, discharging) on Android and iOS.
 * [connectivity](https://pub.dev/packages/connectivity) - This plugin allows Flutter apps to discover network connectivity and configure themselves accordingly. It can distinguish between cellular vs WiFi connection. This plugin works for iOS and Android.
+* [flutter_background_geolocation](https://pub.dev/packages/flutter_background_geolocation) - The most sophisticated background location tracking & geofencing module with battery-conscious motion-detection intelligence for iOS and Android.
 * [geolocator](https://pub.dev/packages/geolocator) - A Flutter geolocation plugin which provides easy access to platform specific location services (FusedLocationProviderClient or if not available the LocationManager on Android and CLLocationManager on iOS).
 * [location](https://pub.dev/packages/location) - This plugin for Flutter handles getting location on Android and iOS. It also provides callbacks when location is changed.
 * [sensors](https://pub.dev/packages/sensors) - Flutter plugin for accessing the Android and iOS accelerometer and gyroscope sensors.
