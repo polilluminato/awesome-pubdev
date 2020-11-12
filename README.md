@@ -20,6 +20,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Flutter Community Plus Plugins](#flutter-community-plus-plugins)
     - [HTTP](#http)
     - [Icons](#icons)
+    - [Loading](#loading)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
@@ -27,6 +28,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Timeline](#timeline)
     - [Utils](#utils)
     - [Video Player](#video-player)
+    
 - [Resources](#resources)
     - [Website](#website)
 
@@ -165,6 +167,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [outline_material_icons](https://pub.dev/packages/outline_material_icons) - This package provides the 'outline' theme of icons on the [Material Design website](https://material.io/resources/icons/?style=baseline), which is not available in Flutter or as a .ttf font file.
 * [weather_icons](https://pub.dev/packages/weather_icons) - A Flutter library for using [Weather Icons](https://erikflowers.github.io/weather-icons/).
 
+## Loading
+
+*Loadings indicators Libraries for Flutter App.*
+
+* [flutter_easyloading](https://pub.dev/packages/flutter_easyloading) - A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS, Android and Web
+* [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
+* [loading_animations](https://pub.dev/packages/loading_animations) - A Flutter package with a selection of simple yet very customizable set of loading animations.
+
 ## PDF
 
 *Libraries to display and modify PDF in a Flutter App.*
@@ -207,10 +217,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_bloc](https://pub.dev/packages/flutter_bloc) - Widgets that make it easy to integrate blocs and cubits into Flutter. Built to work with [bloc](https://pub.dev/packages/bloc).
 * [flutter_command](https://pub.dev/packages/flutter_command) - flutter_command is a way to manage your state based on `ValueListenable` and the `Command` design pattern.
 * [flutter_riverpod](https://pub.dev/packages/flutter_riverpod) - This project can be considered as a rewrite of [provider](https://pub.dev/packages/provider) to make improvements that would be otherwise impossible.
+* [get](https://pub.dev/packages/get) - Get or GetX(new name) is an extra-light and powerful solution for Flutter. It combines high performance state management, intelligent dependency injection, and route management in a quick and practical way.
 * [get_it](https://pub.dev/packages/get_it) - Simple direct Service Locator that allows to decouple the interface from a concrete implementation and to access the concrete implementation from everywhere in your App
-* [get_it_mixin](https://pub.dev/packages/get_it_mixin) - mixin on Stateless- and StatefulWidgts that makes binding the Widget to Objects stored in GetIt easier. Makes get_it to a full state management solutio
+* [get_it_mixin](https://pub.dev/packages/get_it_mixin) - mixin on Stateless- and StatefulWidgts that makes binding the Widget to Objects stored in GetIt easier. Makes get_it to a full state management solution
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+
 
 ## Timeline
 
