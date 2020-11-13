@@ -181,7 +181,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Loading
 
-*Libraries to display loading indicators in a for Flutter App.*
+*Libraries to display loading indicators in a Flutter App.*
 
 * [flutter_easyloading](https://pub.dev/packages/flutter_easyloading) - A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS, Android and Web.
 * [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
