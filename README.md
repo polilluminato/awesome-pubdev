@@ -21,6 +21,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Flutter Community Plus Plugins](#flutter-community-plus-plugins)
     - [HTTP](#http)
     - [Icons](#icons)
+    - [Images](#images)
     - [Loading](#loading)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
@@ -186,6 +187,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_easyloading](https://pub.dev/packages/flutter_easyloading) - A clean and lightweight loading/toast widget for Flutter, easy to use without context, support iOS, Android and Web.
 * [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
 * [loading_animations](https://pub.dev/packages/loading_animations) - A Flutter package with a selection of simple yet very customizable set of loading animations.
+* [loading_gifs](https://pub.dev/packages/loading_gifs) - Loading indicator GIFs. Material and Cupertino (Android and iOS) loading indicators in assorted sizes. Use as placeholders for loading remote image assets.
 
 ## PDF
 
@@ -198,6 +200,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [native_pdf_view](https://pub.dev/packages/native_pdf_view) - Flutter plugin to render PDF files on Web, MacOS, Android and iOS.
 * [pdf](https://pub.dev/packages/pdf) - A pdf producer for Dart. It can create pdf files for both web or flutter.
 * [pdf_flutter](https://pub.dev/packages/pdf_flutter) - Displaying PDF from Network, File and assets easily like we display Image in Flutter Widget.
+* [pdf_viewer_plugin](https://pub.dev/packages/pdf_viewer_plugin) - A Flutter plugin for IOS and Android providing a simple way to display local file PDFs.
 
 ## QRCode
 
