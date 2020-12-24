@@ -180,6 +180,21 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [outline_material_icons](https://pub.dev/packages/outline_material_icons) - This package provides the 'outline' theme of icons on the [Material Design website](https://material.io/resources/icons/?style=baseline), which is not available in Flutter or as a .ttf font file.
 * [weather_icons](https://pub.dev/packages/weather_icons) - A Flutter library for using [Weather Icons](https://erikflowers.github.io/weather-icons/).
 
+## Images 
+
+*Libraries to manage images in a Flutter App.*
+
+* [bitmap](https://pub.dev/packages/bitmap) - Bitmap is a fast and minimalistic lib that heelps you to manipulate image on Flutter apps.
+* [flutter_advanced_networkimage](https://pub.dev/packages/flutter_advanced_networkimage) - An advanced image provider provides caching and retrying for flutter app. Now with zoomable widget and transition to image widget.
+* [flutter_blurhash](https://pub.dev/packages/flutter_blurhash) - Compact representation of a placeholder for an image. Encode a blurry image under 30 caracters for instant display like used by Medium.
+* [flutter_image_compress](https://pub.dev/packages/flutter_image_compress) - Compress image with native code(objc kotlin), it's faster. This library can work on android/ios.
+* [image](https://pub.dev/packages/image) - Provides server and web apps the ability to load, manipulate, and save images with various image file formats including PNG, JPEG, GIF, BMP, WebP, TIFF, TGA, PSD, PVR, and OpenEXR.
+* [image_editor_pro](https://pub.dev/packages/image_editor_pro) - Image Editor Plugin with simple, easy support for image editing using paints,text and emoji like stories.
+* [image_fade](https://pub.dev/packages/image_fade) - A widget that displays a placeholder and optional progress indicator while an image loads, then cross-fades to the loaded image. Improves on FadeInImage.
+* [octo_image](https://pub.dev/packages/octo_image) - A multifunctional Flutter image widget. Supports placeholders, error widgets and image transformers with fading.
+* [parallax_image](https://pub.dev/packages/parallax_image) - A Flutter widget that paints an image and moves it at a slower speed than the main scrolling content.
+* [progressive_image](https://pub.dev/packages/progressive_image) - A flutter widget which progressively loads larger images using Low Quality Image Placeholders.
+* [shadowed_image](https://pub.dev/packages/shadowed_image) - A new Flutter package for creating shadow of same color scheme as the image.
 ## Loading
 
 *Libraries to display loading indicators in a Flutter App.*
