@@ -175,6 +175,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [eva_icons_flutter](https://pub.dev/packages/eva_icons_flutter) - Flutter package for Eva Icons. [Eva Icons](https://akveo.github.io/eva-icons/#/) is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 * [fluentui_icons](https://pub.dev/packages/fluentui_icons) - Icon package from Flutter based on [fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) from Microsoft.
 * [flutter_icons](https://pub.dev/packages/flutter_icons) - Customizable Icons for Flutter,Inspired by [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons).
+* [flutter_phosphor_icons](https://pub.dev/packages/flutter_phosphor_icons) - Phosphor is a flexible icon family for interfaces, diagrams, presentations — whatever, really.
 * [fontisto_flutter](https://pub.dev/packages/fontisto_flutter) - Based on Fontisto 3.0.4. Includes all free icons (over 600 icon). 
 * [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter) - The Font Awesome Icon pack available as set of Flutter Icons. Based on Font Awesome 5.15.1. Includes all free icons: Regular, Solid, Brands.
 * [line_awesome_flutter](https://pub.dev/packages/line_awesome_flutter) - The Line Awesome Icon pack available as Flutter Icons. Provides 1542 additional icons to use in your apps.
@@ -276,8 +277,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Utility libraries for a Flutter App.*
 
+* [carrier_info](https://pub.dev/packages/carrier_info) - Carrier Info gets networkType, networkGeneration, mobileCountryCode, mobileCountryCode, e.t.c from both android and ios devices.
 * [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
+* [flutter_libphonenumber](https://pub.dev/packages/flutter_libphonenumber) - Leverages libphonenumber to allow for asynchronous and synchronous formatting of phone numbers in Flutter apps.
 * [json_serializable](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
+* [mailto](https://pub.dev/packages/mailto) - Simple Dart package for creating mailto links in your Flutter apps.
 * [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
 * [quick_actions](https://pub.dev/packages/quick_actions) - Flutter plugin for creating shortcuts on home screen, also known as Quick Actions on iOS and App Shortcuts on Android.
