@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
     - [State Management](#state-management)
+    - [Text](#text)
     - [Timeline](#timeline)
     - [Utils](#utils)
     - [Video Player](#video-player)
@@ -254,7 +255,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
 
+## Text
 
+*Libraries to work with text in a Flutter App.*
+
+* [span_builder](https://pub.dev/packages/span_builder) - Facilitates creation of spans from plain text and provides automated disposal of GestureRecognizers.
+* [word_selectable_text](https://pub.dev/packages/word_selectable_text) - The WordSelectableText widget gives an easy way to select and highlight words.
 ## Timeline
 
 *Libraries to show a timeline in a Flutter App.*
