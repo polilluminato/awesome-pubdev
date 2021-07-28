@@ -15,6 +15,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Camera](#camera)
     - [Chat](#chat)
     - [Crypto](#crypto)
+    - [Dart](#dart)
     - [Database](#database)
     - [Date Time Picker](#date-time-picker)
     - [Development](#development)
@@ -101,6 +102,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [nanoid](https://pub.dev/packages/nanoid) - A tiny, secure, URL-friendly, unique string ID generator. Dart implementation of ai/nanoid.
 * [rsa_encrypt](https://pub.dev/packages/rsa_encrypt) - Enable you to quickly implement rsa encryption in your flutter app, it covers everything from Generating key pairs, encrypt and decrypting strings.
 * [uuid](https://pub.dev/packages/uuid) - RFC4122 (v1, v4, v5) UUID Generator and Parser for all Dart platforms (Web, VM, Flutter).
+
+## Dart
+
+*Libraries to deal with Dart.*
+
+* [dartx](https://pub.dev/packages/dartx) - Superpowers for Dart. Collection of useful static extension methods.
+* [dart_code_metrics](https://pub.dev/packages/dart_code_metrics) - Software analytics tool that helps developers analyse and improve software quality.
+* [superdeclarative_geometry](https://pub.dev/packages/superdeclarative_geometry) - First-class support for angles, polar coordinates, and more.
 
 ## Database
 
