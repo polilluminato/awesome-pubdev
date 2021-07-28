@@ -24,6 +24,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [HTTP](#http)
     - [Icons](#icons)
     - [Images](#images)
+    - [Layout](#layout)
     - [Loading](#loading)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
@@ -217,6 +218,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [parallax_image](https://pub.dev/packages/parallax_image) - A Flutter widget that paints an image and moves it at a slower speed than the main scrolling content.
 * [progressive_image](https://pub.dev/packages/progressive_image) - A flutter widget which progressively loads larger images using Low Quality Image Placeholders.
 * [shadowed_image](https://pub.dev/packages/shadowed_image) - A new Flutter package for creating shadow of same color scheme as the image.
+
+## Layout
+
+*Libraries to deal with layouts in a Flutter App.*
+
+* [boardview](https://pub.dev/packages/boardview) - This is a custom Flutter widget that can create a draggable BoardView or also known as a kanban. The view can be reordered with drag and drop.
+* [boxy](https://pub.dev/packages/boxy) - Layout made simple. Overcomes many limitations by the framework regarding layout.
+* [flutter_layout_grid](https://pub.dev/packages/flutter_layout_grid) - A powerful grid layout system for Flutter, optimized for complex user interface design.
+* [pixel_perfect](https://pub.dev/packages/pixel_perfect) - Development tool that helps you make your flutter application "pixel perfect"
 ## Loading
 
 *Libraries to display loading indicators in a Flutter App.*
