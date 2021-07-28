@@ -10,6 +10,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Contents
 
 - [Awesome Pub.dev](#awesome-pubdev)
+    - [Avatars](#avatars)
     - [Bottom Navigation](#bottom-navigation)
     - [Camera](#camera)
     - [Chat](#chat)
@@ -34,6 +35,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     
 - [Resources](#resources)
     - [Website](#website)
+
+## Avatars
+
+*Libraries to display avatars in a Flutter App.*
+
+* [avatars](https://pub.dev/packages/avatars) - An avatar widget that uses the best available data source among those provided (social images, gravatar, name initials, custom).
+* [colorize_text_avatar](https://pub.dev/packages/colorize_text_avatar) - Colorize Text Avatar is a package to generate avatar based on your user initials.
+* [fluttermoji](https://pub.dev/packages/fluttermoji) - A light-weight and highly customizable SVG graphic set for Flutter which generates avatars and provides a Customizer Widget, personalized CircleAvatar and other utility functions.
+* [flutter_avatars_bottts](https://pub.dev/packages/flutter_avatars_bottts) - Flutter Avatar - Bottts (high performance svg avatars rendering widget).
+* [multiavatar](https://pub.dev/packages/multiavatar) - Multiavatar is a multicultural avatar maker. 12 billion unique multicultural avatars.
 
 ## Bottom Navigation
 
