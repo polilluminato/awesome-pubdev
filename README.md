@@ -253,6 +253,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to display and generate QRCode in a Flutter App.*
 
+* [barcode_scan2](https://pub.dev/packages/barcode_scan2) - A flutter plugin for scanning 2D barcodes and QRCodes via camera.
 * [barcode_scanner](https://pub.dev/packages/barcode_scanner) - Flutter plugin of the Scanbot Barcode Scanner SDK for Android and iOS. Provides functionality for scanning 1D and 2D barcodes, like EAN, UPC, QR code, Data Matrix, PDF 417, etc.
 * [flutter_qr_reader](https://pub.dev/packages/flutter_qr_reader) - QR code (scan QRCode and picture) recognition （AndroidView/UiKitView）
 * [pretty_qr_code](https://pub.dev/packages/pretty_qr_code) - Pretty QR code for Flutter. You can round the edges with parameter or use the standard view.
@@ -310,11 +311,13 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [carrier_info](https://pub.dev/packages/carrier_info) - Carrier Info gets networkType, networkGeneration, mobileCountryCode, mobileCountryCode, e.t.c from both android and ios devices.
 * [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
 * [flutter_libphonenumber](https://pub.dev/packages/flutter_libphonenumber) - Leverages libphonenumber to allow for asynchronous and synchronous formatting of phone numbers in Flutter apps.
+* [jiffy](https://pub.dev/packages/jiffy) - Jiffy is a date dart package inspired by momentjs for parsing, manipulating and formatting dates.
 * [json_serializable](https://pub.dev/packages/json_serializable) - Automatically generate code for converting to and from JSON by annotating Dart classes.
 * [mailto](https://pub.dev/packages/mailto) - Simple Dart package for creating mailto links in your Flutter apps.
 * [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
 * [quick_actions](https://pub.dev/packages/quick_actions) - Flutter plugin for creating shortcuts on home screen, also known as Quick Actions on iOS and App Shortcuts on Android.
+* [rules](https://pub.dev/packages/rules) - Rules is a simple yet powerful and feature-rich validation library for both dart and flutter.
 * [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
 * [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL in the mobile platform. Supports iOS, Android, web, Windows, macOS, and Linux.
