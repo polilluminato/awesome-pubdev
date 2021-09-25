@@ -14,6 +14,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Bottom Navigation](#bottom-navigation)
     - [Camera](#camera)
     - [Chat](#chat)
+    - [Colors](#colors)
     - [Crypto](#crypto)
     - [Dart](#dart)
     - [Database](#database)
@@ -92,6 +93,14 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [chat_list](https://pub.dev/packages/chat_list) - A flutter package to incorporate a chat view in a simple way.
 * [dash_chat](https://pub.dev/packages/dash_chat) - The most complete Chat UI for flutter inspired by react-native-gifted-chat.
 * [flutter_chat_bubble](https://pub.dev/packages/flutter_chat_bubble) - Flutter widget for creating different types of chat bubble. You can use different properties of this Widget and create beautiful Chat Bubbles.
+
+## Colors
+
+*Libraries to handle color in a Flutter App.*
+
+* [color_palette_generator](https://pub.dev/packages/color_palette_generator) - Color palette generator, capable to generate N colors using a set of basic colors. Supports HEX and RGBA colors.
+* [flex_color_picker](https://pub.dev/packages/flex_color_picker) - A customizable Flutter primary, accent and custom color picker. Includes an optional HSV wheel color picker.
+* [flex_color_scheme](https://pub.dev/packages/flex_color_scheme) - A Flutter package to make and use beautiful color scheme based MaterialApp themes.
 
 ## Crypto
 
