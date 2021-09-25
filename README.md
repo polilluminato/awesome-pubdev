@@ -55,6 +55,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 *Libraries custumize bottom navigation in a Flutter App.*
 
 * [animated_bottom_navigation_bar](https://pub.dev/packages/animated_bottom_navigation_bar) - Animated Bottom Navigation Bar Widget implementation inspired by [dribble shot](https://dribbble.com/shots/7134849-Simple-Tab-Bar-Animation).
+* [bottom_bar_with_sheet](https://pub.dev/packages/bottom_bar_with_sheet) - This package help you to create bottom bar with FloatingActionButton which buld BottomSheet widget on every page.
 * [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar) - A beautiful and animated bottom navigation. The navigation bar use your current theme, but you are free to customize it.
 * [bottom_personalized_dot_bar](https://pub.dev/packages/bottom_personalized_dot_bar) - A bottom navigation bar that you can customize with the options you need, without any limits. You can also customize the appearance of the navigation bar.
 * [circular_bottom_navigation](https://pub.dev/packages/circular_bottom_navigation) - Circular Bottom Navigation (or maybe a tab bar).
@@ -329,6 +330,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 *Utility libraries for a Flutter App.*
 
 * [carrier_info](https://pub.dev/packages/carrier_info) - Carrier Info gets networkType, networkGeneration, mobileCountryCode, mobileCountryCode, e.t.c from both android and ios devices.
+* [cherry_toast](https://pub.dev/packages/cherry_toast) - A new way to display toasts in flutter with elegant design and animations.
 * [device_info](https://pub.dev/packages/device_info) - Get current device information from within the Flutter application.
 * [flutter_libphonenumber](https://pub.dev/packages/flutter_libphonenumber) - Leverages libphonenumber to allow for asynchronous and synchronous formatting of phone numbers in Flutter apps.
 * [jiffy](https://pub.dev/packages/jiffy) - Jiffy is a date dart package inspired by momentjs for parsing, manipulating and formatting dates.
@@ -336,6 +338,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [mailto](https://pub.dev/packages/mailto) - Simple Dart package for creating mailto links in your Flutter apps.
 * [package_info](https://pub.dev/packages/package_info) - This Flutter plugin provides an API for querying information about an application package.
 * [path_provider](https://pub.dev/packages/path_provider) - Flutter plugin for getting commonly used locations on host platform file systems, such as the temp and app data directories.
+* [printing](https://pub.dev/packages/printing) - Plugin that allows Flutter apps to generate and print documents to compatible printers on Android, iOS, macOS, Windows, and Linux, as well as web print.
 * [quick_actions](https://pub.dev/packages/quick_actions) - Flutter plugin for creating shortcuts on home screen, also known as Quick Actions on iOS and App Shortcuts on Android.
 * [rules](https://pub.dev/packages/rules) - Rules is a simple yet powerful and feature-rich validation library for both dart and flutter.
 * [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
