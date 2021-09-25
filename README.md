@@ -33,6 +33,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [State Management](#state-management)
     - [Text](#text)
     - [Timeline](#timeline)
+    - [UI](#ui)
     - [Utils](#utils)
     - [Video Player](#video-player)
     
@@ -312,6 +313,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [timeline_node](https://pub.dev/packages/timeline_node) - A timeline node widget to create timeline layout.
 * [timeline_tile](https://pub.dev/packages/timeline_tile) - A package to help you build highly customisable timelines with Flutter.
 
+## UI 
+
+*Utility libraries to create UI in a Flutter App.*
+
+* [flip_card](https://pub.dev/packages/flip_card) - A component that provides flip card animation. It could be used for hide and show details of a product.
+* [flutter_slidable](https://pub.dev/packages/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
+* [getwidget](https://pub.dev/packages/getwidget) - GetWidget is open source library that come with pre-build 1000+ UI components. It makes development faster & more enjoyable. You can customize the component as per your need.
+* [stilo](https://pub.dev/packages/stilo) - Stilo is a utility-first Flutter library that gives you all of the building constants you need to build designs without defining common styles.
+* [wave](https://pub.dev/packages/wave) - Widget for displaying waves with custom color, duration, floating and blur effects.
+* [widget_circular_animator](https://pub.dev/packages/widget_circular_animator) - A pre-built Flutter circular animator, can suit your new profile view or your any other widgets.
 
 ## Utils 
 
