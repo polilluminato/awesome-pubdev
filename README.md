@@ -31,6 +31,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
     - [State Management](#state-management)
+    - [Supabase](#supabase)
     - [Text](#text)
     - [Timeline](#timeline)
     - [UI](#ui)
@@ -297,6 +298,15 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [get_it_mixin](https://pub.dev/packages/get_it_mixin) - mixin on Stateless- and StatefulWidgts that makes binding the Widget to Objects stored in GetIt easier. Makes get_it to a full state management solution
 * [mobx](https://pub.dev/packages/mobx) - MobX is a state-management library that makes it simple to connect the reactive data of your application with the UI.
 * [provider](https://pub.dev/packages/provider) - A wrapper around InheritedWidget to make them easier to use and more reusable.
+
+## Supabase
+
+*Libraries integrate Supabase services*
+
+* [postgrest](https://pub.dev/packages/postgrest) - PostgREST client for Dart. This library provides an ORM interface to PostgREST.
+* [realtime_client](https://pub.dev/packages/realtime_client) - Listens to changes in a PostgreSQL Database and via websockets. This is for usage with Supabase Realtime server.
+* [supabase](https://pub.dev/packages/supabase) - A dart client for Supabase. This client makes it simple for developers to build secure and scalable products.
+* [supabase_flutter](https://pub.dev/packages/supabase_flutter) - Flutter integration for Supabase. This package makes it simple for developers to build secure and scalable products.
 
 ## Text
 
