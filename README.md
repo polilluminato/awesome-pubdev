@@ -272,7 +272,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [qr](https://pub.dev/packages/qr) - A QR code generation library for Dart and Flutter. Supports QR code version 1 through 40, error correction and redundancy.
 * [qr_code_scanner](https://pub.dev/packages/qr_code_scanner) - QR code scanner that can be embedded inside flutter. It uses zxing in Android and MTBBarcode scanner in iOS.
 * [qr_flutter](https://pub.dev/packages/qr_flutter) - QR.Flutter is a Flutter library for simple and fast QR code rendering via a Widget or custom painter.
-* [r_scan](https://pub.dev/packages/r_scan) - A flutter plugin about qr code scan,it can scan from file、url、memory and camera qr code.
+* [r_scan](https://pub.dev/packages/r_scan) - A flutter plugin about qr code scan it can scan from file, url, memory and camera qr code.
 
 ## Sensors
 
@@ -328,9 +328,12 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Utility libraries to create UI in a Flutter App.*
 
+* [collapsible_sidebar](https://pub.dev/packages/collapsible_sidebar) - A collapsible sidebar for Flutter apps implementing the Material Design.
 * [flip_card](https://pub.dev/packages/flip_card) - A component that provides flip card animation. It could be used for hide and show details of a product.
 * [flutter_slidable](https://pub.dev/packages/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions that can be dismissed.
 * [getwidget](https://pub.dev/packages/getwidget) - GetWidget is open source library that come with pre-build 1000+ UI components. It makes development faster & more enjoyable. You can customize the component as per your need.
+* [gradient_fab](https://pub.dev/packages/gradient_fab) - GradientFab Widget is an expandable Floating Action Button that can expand into any number of child Fabs.
+* [group_button](https://pub.dev/packages/group_button) - Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.
 * [stilo](https://pub.dev/packages/stilo) - Stilo is a utility-first Flutter library that gives you all of the building constants you need to build designs without defining common styles.
 * [wave](https://pub.dev/packages/wave) - Widget for displaying waves with custom color, duration, floating and blur effects.
 * [widget_circular_animator](https://pub.dev/packages/widget_circular_animator) - A pre-built Flutter circular animator, can suit your new profile view or your any other widgets.
@@ -353,6 +356,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [rules](https://pub.dev/packages/rules) - Rules is a simple yet powerful and feature-rich validation library for both dart and flutter.
 * [share](https://pub.dev/packages/share) - A Flutter plugin to share content from your Flutter app via the platform's share dialog.
 * [shared_preferences](https://pub.dev/packages/shared_preferences) - Wraps platform-specific persistent storage for simple data (NSUserDefaults on iOS and macOS, SharedPreferences on Android, etc.).
+* [uni_links](https://pub.dev/packages/uni_links) - Flutter plugin for accepting incoming links - App/Deep Links (Android), Universal Links and Custom URL schemes (iOS).
 * [url_launcher](https://pub.dev/packages/url_launcher) - A Flutter plugin for launching a URL in the mobile platform. Supports iOS, Android, web, Windows, macOS, and Linux.
 
 ## Video Player 
