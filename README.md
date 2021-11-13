@@ -27,6 +27,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
     - [Images](#images)
     - [Layout](#layout)
     - [Loading](#loading)
+    - [Navigation](#navigation)
     - [PDF](#pdf)
     - [QRCode](#qrcode)
     - [Sensors](#sensors)
@@ -247,6 +248,16 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [flutter_spinkit](https://pub.dev/packages/flutter_spinkit) - A collection of loading indicators animated with flutter.
 * [loading_animations](https://pub.dev/packages/loading_animations) - A Flutter package with a selection of simple yet very customizable set of loading animations.
 * [loading_gifs](https://pub.dev/packages/loading_gifs) - Loading indicator GIFs. Material and Cupertino (Android and iOS) loading indicators in assorted sizes. Use as placeholders for loading remote image assets.
+
+## Navigation
+
+*Libraries to deal with navigation in a Flutter App.*
+
+* [auto_route](https://pub.dev/packages/auto_route) - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you.
+* [go_router](https://pub.dev/packages/go_router) - A declarative router for Flutter based on Navigation 2 supporting deep linking, data-driven routes and more.
+* [routemaster](https://pub.dev/packages/routemaster) - Easy-to-use Navigator 2.0 router for web, mobile and desktop. URL-based routing, simple navigation of tabs and nested routes.
+* qlevar_routerhttps://pub.dev/packages/qlevar_router) - A router that helps you to manage your project routes. Create nested routes. navigation without context between your pages.
+* [vrouter](https://pub.dev/packages/vrouter) - A navigation package that makes navigation and routing easy on every platform. Built on top of Navigator 2.
 
 ## PDF
 
