@@ -130,9 +130,11 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to manage database in a Flutter App.*
 
+* [fluent_query_builder](https://pub.dev/packages/fluent_query_builder) - A dart library that allows you to execute SQL queries in the PostgreSQL database in a fluent way, is very easy to execute.
 * [database](https://pub.dev/packages/database) - A database access API that's vendor-agnostic. Adapters exist for browser APIs, SQLite, Google Cloud Firestore, PostgreSQL, ElasticSearch, Algolia, and others.
 * [hive](https://pub.dev/packages/hive) - Hive is a lightweight and blazing fast key-value database written in pure Dart. Inspired by Bitcask.
 * [moor](https://pub.dev/packages/moor) - Moor is a reactive persistence library for Flutter and Dart, built ontop of sqlite.
+* [objectbox](https://pub.dev/packages/objectbox) - Flutter database for super-fast NoSQL ACID compliant object persistence.
 * [postgres](https://github.com/stablekernel/postgresql-dart) -PostgreSQL database driver. Supports statement reuse and binary protocol.
 * [sembast](https://pub.dev/packages/sembast) - NoSQL persistent embedded file system document-based database for Dart VM and Flutter with encryption support.
 * [sqflite](https://pub.dev/packages/sqflite) - SQLite plugin for Flutter, it's support: transactions and batches, automatic version managment during open, helpers for insert/query/update/delete queries, DB operation executed in a background thread on iOS and Android.
@@ -257,7 +259,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [auto_route](https://pub.dev/packages/auto_route) - AutoRoute is a declarative routing solution, where everything needed for navigation is automatically generated for you.
 * [go_router](https://pub.dev/packages/go_router) - A declarative router for Flutter based on Navigation 2 supporting deep linking, data-driven routes and more.
 * [routemaster](https://pub.dev/packages/routemaster) - Easy-to-use Navigator 2.0 router for web, mobile and desktop. URL-based routing, simple navigation of tabs and nested routes.
-* qlevar_routerhttps://pub.dev/packages/qlevar_router) - A router that helps you to manage your project routes. Create nested routes. navigation without context between your pages.
+* [qlevar_router](https://pub.dev/packages/qlevar_router) - A router that helps you to manage your project routes. Create nested routes. navigation without context between your pages.
 * [vrouter](https://pub.dev/packages/vrouter) - A navigation package that makes navigation and routing easy on every platform. Built on top of Navigator 2.
 
 ## PDF
