@@ -326,7 +326,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 *Libraries to work with text in a Flutter App.*
 
-* [span_builder](https://pub.dev/packages/span_builder) - Facilitates creation of spans from plain text and provides automated disposal of GestureRecognizers.
+~~* [span_builder](https://pub.dev/packages/span_builder) - Facilitates creation of spans from plain text and provides automated disposal of GestureRecognizers.~~ Dart 3.0 Incompatible
 * [word_selectable_text](https://pub.dev/packages/word_selectable_text) - The WordSelectableText widget gives an easy way to select and highlight words.
 ## Timeline
 
